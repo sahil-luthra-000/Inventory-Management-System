@@ -1,6 +1,4 @@
-Certainly! Here's a sample README file for an Inventory Management System project using the MERN (MongoDB, Express, React, Node.js) stack.
 
----
 
 # Inventory Management System
 
